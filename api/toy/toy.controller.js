@@ -63,7 +63,7 @@ async function updateToy(req, res) {
 async function removeToy(req, res) {
     try {
         const toyId = req.params.id
-        console.log(toyId)
+        // console.log(toyId)
         await toyService.remove(toyId)
         res.send()
     } catch (err) {
