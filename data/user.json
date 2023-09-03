@@ -1,0 +1,32 @@
+[
+    {
+        "fullname": "A",
+         "username": "A",
+          "password": "A",
+           "isAdmin": true
+    },
+    {
+        "fullname": "B",
+         "username": "B",
+          "password": "B",
+           "isAdmin": false
+    },
+    {
+        "fullname": "C",
+         "username": "C",
+          "password": "C",
+           "isAdmin": false
+    },
+    {
+        "fullname": "D",
+         "username": "D",
+          "password": "D",
+           "isAdmin": false
+    },
+    {
+        "fullname": "E",
+         "username": "E",
+          "password": "E",
+           "isAdmin": false
+    }
+]

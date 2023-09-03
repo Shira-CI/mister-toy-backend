@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1767f4c9.css",
+    "main.js": "/static/js/main.93a7e468.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/fluffy.jpg": "/static/media/fluffy.235d8776ded89d135734.jpg",
+    "static/media/bahnschrift.ttf": "/static/media/bahnschrift.23b347dac5478c8b4500.ttf",
+    "index.html": "/index.html",
+    "main.1767f4c9.css.map": "/static/css/main.1767f4c9.css.map",
+    "main.93a7e468.js.map": "/static/js/main.93a7e468.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1767f4c9.css",
+    "static/js/main.93a7e468.js"
+  ]
+}
