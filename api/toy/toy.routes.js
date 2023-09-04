@@ -6,11 +6,6 @@ const { log } = require('../../middlewares/logger.middleware')
 
 const { getToys, getToyById, addToy, updateToy, removeToy, addToyMsg, removeToyMsg } = require('./toy.controller')
 
-// If we want a specific middleware (i.e. requireAuth) 
-// to be activated on all end points of this router:
-// router.use(requireAuth)
-
-
 
 router.get('/', log, getToys)
 router.get('/:id', getToyById)
