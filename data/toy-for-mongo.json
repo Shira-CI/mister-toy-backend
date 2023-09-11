@@ -1,109 +1,243 @@
 [
   {
-    "title": "Quirkatron",
-    "price": 68,
+    "title": "Leonardo",
+    "price": 15,
     "labels": [
       "Doll",
-      "Battery Powered",
-      "Box game"
+      "Mini Maestros",
+      "Tiny Tots",
+      "Doll Delights",
+      "Animal Kingdom"
     ],
     "createdAt": 1631115098246,
-    "inStock": false,
+    "inStock": true,
     "image": "https://images.unsplash.com/photo-1630453228219-13c0a4de0e99?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
-    "description": "",
+    "description": "Introducing our Leonardo Ninja Turtle Plastic Doll - a must-have addition to your toy collection!",
     "reviews": []
   },
   {
-    "title": "PixiePlush",
-    "price": 75,
+    "title": "Pixie Plush",
+    "price": 10,
     "labels": [
       "Doll",
-      "Battery Powered"
+      "Mini Maestros",
+      "Tiny Tots",
+      "Doll Delights",
+      "Animal Kingdom"
     ],
     "createdAt": 1631102115584,
     "inStock": true,
-    "description": "",
+    "description": "Introducing our Small Plastic Creature Doll - a charming addition to your toy collection that's sure to delight kids and adults alike",
     "reviews": [],
     "image": "https://images.unsplash.com/photo-1565207192576-ce763be7da44?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjV8fHRveXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
-    "title": "MysterioMates",
+    "title": "Mini Julia",
     "price": 59,
     "labels": [
       "Doll",
-      "Battery Powered"
+      "Cuddle Companions",
+      "Green Play",
+      "Tiny Tots",
+      "Doll Delights",
+      "Animal Kingdom"
     ],
     "createdAt": 1631107412719,
-    "inStock": false,
-    "description": "",
+    "inStock": true,
+    "description": "Soft and adorable bear is the perfect gift!",
     "reviews": [],
     "image": "https://images.unsplash.com/photo-1615486363990-dff6c0722a38?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODB8fHRveXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
-    "title": "K",
+    "title": "Stuffy Pinky",
     "price": 76,
     "labels": [
       "Baby",
-      "Battery Powered",
-      "Outdoor",
-      "Puzzle",
       "Doll",
       "Art",
-      "Box game",
-      "On wheels"
+      "Tiny Tots",
+      "Doll Delights",
+      "Animal Kingdom"
     ],
     "createdAt": 1684868246101,
     "inStock": true,
-    "description": "",
+    "description": "Comfort, companionship, and a touch of sweetness",
     "reviews": [],
-    "image": "https://images.unsplash.com/photo-1566877308731-4d806088b25e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTkxfHx0b3l8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60"
+    "image": "https://images.unsplash.com/photo-1588671938895-bb25d431aa9a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
   },
   {
-    "title": "PuzzloSphere",
+    "title": "Puzzle",
     "price": 76,
     "labels": [
-      "Puzzle"
+      "Puzzle",
+      "Family",
+      "Indoor and outdoor",
+      "Family Time"
     ],
     "createdAt": 1684868246101,
     "inStock": true,
-    "description": "",
+    "description": "Great for your family time!",
     "reviews": [],
-    "image": "https://images.unsplash.com/photo-1600693919791-7829a39b602e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM1fHx0b3l8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60"
+    "image": "https://images.unsplash.com/photo-1588591795084-1770cb3be374?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHV6emxlJTIwZ2FtZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
-    "title": "LumiLoops",
-    "price": 76,
+    "title": "Lumi Loops",
+    "price": 26,
     "labels": [
-      "Puzzle"
+      "Baby",
+      "Doll",
+      "Tiny Tots",
+      "Doll Delights"
     ],
     "createdAt": 1684868246101,
     "inStock": true,
-    "description": "",
+    "description": "Perfect for your baby",
     "reviews": [],
     "image": "https://images.unsplash.com/photo-1550747528-cdb45925b3f7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTUyfHx0b3l8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
-    "title": "QuirkyQuest",
-    "price": 76,
+    "title": " Mini Mover Tractor",
+    "price": 19,
     "labels": [
-      "Doll"
+      "Toys for Kids",
+      "Outdoor Play",
+      "Toy Tractors",
+      "Imaginative Play",
+      "Farm Toys",
+      "Miniature Vehicles"
     ],
     "createdAt": 1684868246101,
     "inStock": true,
-    "description": "",
+    "description": "The Mini Mover Tractor is your pint-sized powerhouse for big adventures! ",
     "reviews": [],
     "image": "https://images.unsplash.com/photo-1592017246891-f512c9bf8edd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU0fHx0b3l8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
-    "title": "JumbleJamboree",
-    "price": 76,
+    "title": "Baloons",
+    "price": 9,
     "labels": [
-      "Baby"
+      "Baby Shower Balloons",
+      "Birthday",
+      "Balloon Accessories",
+      "Letter Balloons"
     ],
     "createdAt": 1684868246101,
     "inStock": false,
-    "description": "",
+    "description": "Discover a world of color and fun with our Balloon Variety Collection",
     "reviews": [],
     "image": "https://images.unsplash.com/photo-1561074666-aa94bbcda3d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTc0fHx0b3l8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60"
+  },
+  {
+    "title": "Lego",
+    "price": 29,
+    "labels": [
+      "Toys for Kids",
+      "Indoor Play",
+      "Imaginative Play",
+      "Family Time"
+    ],
+    "createdAt": 1684868246101,
+    "inStock": true,
+    "description": "Discover a world of color and fun with your family",
+    "reviews": [],
+    "image": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "title": "Cozy Bear",
+    "price": 29,
+    "labels": [
+      "Toys for Kids",
+      "Indoor Play",
+      "Imaginative Play",
+      "Baby",
+      "Doll",
+      "Tiny Tots",
+      "Doll Delights"
+    ],
+    "createdAt": 1684868246101,
+    "inStock": true,
+    "description": "Perfect for your baby",
+    "reviews": [],
+    "image": "https://images.unsplash.com/photo-1549501602-52168bb8f653?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fHRveXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60"
+  },
+  {
+    "title": "Buzz Lightyear",
+    "price": 19,
+    "labels": [
+      "Toys for Kids",
+      "Indoor Play",
+      "Imaginative Play",
+      "Disney"
+    ],
+    "createdAt": 1684868246101,
+    "inStock": true,
+    "description": "Buzz Lightyear - The Ultimate Space Ranger Hero!",
+    "reviews": [],
+    "image": "https://images.unsplash.com/photo-1581557991964-125469da3b8a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2033&q=80"
+  },
+  {
+    "title": "Minion Mania Plush Toy",
+    "price": 19,
+    "labels": [
+      "Minion Plush",
+      "Bedtime Buddy",
+      "Decorative Plush",
+      "Movie-Inspired Toys",
+      "Kids' Gifts",
+      "Pop Culture Collectibles"
+    ],
+    "createdAt": 1684868246101,
+    "inStock": true,
+    "description": "Get ready for endless laughter and mischief with our Minion Mania Plush Toy",
+    "reviews": [],
+    "image": "https://images.unsplash.com/photo-1593085512500-5d55148d6f0d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2080&q=80"
+  },
+  {
+    "title": "MagiCube",
+    "price": 25,
+    "labels": [
+     "Puzzle Games",
+      "Brain Teasers",
+      "Rubik's Cube",
+      "Classic Puzzles",
+      "Educational Toys"
+    ],
+    "createdAt": 1684868246101,
+    "inStock": true,
+    "description": "Dive into the world of brain-teasing excitement with our MagiCube: Hungarian Magic Puzzle",
+    "reviews": [],
+    "image": "https://images.unsplash.com/photo-1496354265829-17b1c7b7c363?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2054&q=80"
+  },
+  {
+    "title": "Express Rail ",
+    "price": 59,
+    "labels": [
+      "Toy Trains",
+      "Plastic Train Sets",
+      "Kids' Railway Toys",
+      "Imaginative Play",
+      "Educational Toys",
+      "Starter Train Sets"
+    ],
+    "createdAt": 1684868246101,
+    "inStock": true,
+    "description": "All aboard for endless fun with our ExpressRail Plastic Train Set",
+    "reviews": [],
+    "image": "https://images.unsplash.com/photo-1610482613470-94f5bd5ee245?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTJ8fHRveXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60"
+  },
+  {
+    "title": "Avocadush",
+    "price": 19,
+    "labels": [
+      "Doll",
+      "Cuddle Companions",
+      "Green Play",
+      "Doll Delights"
+    ],
+    "createdAt": 1631107412719,
+    "inStock": true,
+    "description": "Soft and adorable avocado!",
+    "reviews": [],
+    "image": "https://images.unsplash.com/photo-1554825203-68321ddde262?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1985&q=80"
   }
 ]
