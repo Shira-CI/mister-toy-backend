@@ -35,24 +35,11 @@ app.use('/api/toy', toyRoutes)
 const reviewRoutes = require('./api/review/review.routes')
 app.use('/api/review', reviewRoutes)
 
-
-
-// Create a fallback route:
-// Make every request for which there is no end point match the index.html
-// so when requesting http://localhost:3030/index.html/toy/123 
-// it will still respond withour SPA (single page app - the index.html file) 
-// and allow the frontend router to take it from there
-
 const port = process.env.PORT || 3030
 
 app.get('/**', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'index.html'))
 })
-
-// app.get('/**', (req, res) => {
-//     res.sendFile(path.resolve('public/index.html'))
-//   })
-
 
 http.listen(port, () => {
     logger.info('Server is running on port: ' + port)
