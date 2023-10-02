@@ -8,11 +8,6 @@ const logger = require('./services/logger.service')
 const app = express()
 const http = require('http').createServer(app)
 
-
-app.use(cookieParser())
-app.use(express.json())
-app.use(express.static('public'))
-
 if (process.env.NODE_ENV === 'production') {
     app.use(express.static(path.resolve(__dirname, 'public')))
 } else {
@@ -22,6 +17,10 @@ if (process.env.NODE_ENV === 'production') {
     }
     app.use(cors(corsOptions))
 }
+
+app.use(cookieParser())
+app.use(express.json())
+app.use(express.static('public'))
 
 
 const authRoutes = require('./api/auth/auth.routes')
@@ -44,11 +43,12 @@ app.use('/api/review', reviewRoutes)
 // it will still respond withour SPA (single page app - the index.html file) 
 // and allow the frontend router to take it from there
 
+const port = process.env.PORT || 3030
+
 app.get('/**', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'index.html'))
 })
 
-const port = process.env.PORT || 3030
 
 http.listen(port, () => {
     logger.info('Server is running on port: ' + port)
