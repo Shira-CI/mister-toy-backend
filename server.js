@@ -45,13 +45,13 @@ app.use('/api/review', reviewRoutes)
 
 const port = process.env.PORT || 3030
 
-// app.get('/**', (req, res) => {
-//     res.sendFile(path.join(__dirname, 'public', 'index.html'))
-// })
-
 app.get('/**', (req, res) => {
-    res.sendFile(path.resolve('public/index.html'))
-  })
+    res.sendFile(path.join(__dirname, 'public', 'index.html'))
+})
+
+// app.get('/**', (req, res) => {
+//     res.sendFile(path.resolve('public/index.html'))
+//   })
 
 
 http.listen(port, () => {
